@@ -1,4 +1,4 @@
-public class ch3ex1 {
+public class ch3ex1_printNumbers {
     public static void main(String[] args) {
         printNumber(15);
         printNumber(5);
